@@ -25,16 +25,10 @@ This repetitive administrative work reduces the time available for investigation
 
 ## Proposed Workflow
 
-```text
-Raw Quality Incident Notes
-            ↓
-AI Quality Incident Assistant
-            ↓
-Extract Facts
-Classify Incident
-Identify Missing Information
-Draft Structured NCR
-            ↓
-Quality Engineer Review
-            ↓
-Approved Non-Conformance Report
+![Workflow](assets/workflow.png)
+
+## Prompt Engineering
+![Prompt Design](assets/prompt-design.png)
+
+## Validation
+![Validation Dashboard](assets/validation-dashboard.png)
