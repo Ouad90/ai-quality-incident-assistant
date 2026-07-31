@@ -1,3 +1,4 @@
+![AI Quality Incident Assistant](assets/project-banner.png)
 # AI Quality Incident Assistant
 
 ## AI Strategy Proposal for Hertzmann & Söhne
