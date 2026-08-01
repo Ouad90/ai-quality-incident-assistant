@@ -1,5 +1,13 @@
-![AI Quality Incident Assistant](assets/project-banner.png)
 # AI Quality Incident Assistant
+
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![AI Strategy](https://img.shields.io/badge/Project-AI%20Strategy-blue)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+![LLM](https://img.shields.io/badge/LLM-Claude-orange)
+![Manufacturing](https://img.shields.io/badge/Domain-Manufacturing-darkgreen)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-Required-red)
+
+![AI Quality Incident Assistant](assets/project-banner.png)
 
 ## AI Strategy Proposal for Hertzmann & Söhne
 
